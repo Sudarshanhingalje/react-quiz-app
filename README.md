@@ -53,6 +53,12 @@ npm start
 4. Open in browser:
 http://localhost:3000
 
+5.Run the Server:
+npm run server --port 8000
+
+6.Open in browser:
+http://localhost:8000/questions
+
 ## 📚 Future Improvements
 
 - Store scores using localStorage or backend
